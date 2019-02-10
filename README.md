@@ -1,4 +1,4 @@
-PWA Desktop
+PWA Desktop - Exemplo feito pelo balta.io https://github.com/andrebaltieri/pwa-desktop-test
 
 npm install -g http-server
 instalar certificado
